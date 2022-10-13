@@ -924,7 +924,7 @@ export async function handler(chatUpdate) {
                         useDocument: false,
                         viewOnce: false,
                         viewonce: false,
-                        welcome: false,
+                        welcome: true,
                     }
             let settings = global.db.data.settings[this.user.jid]
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
@@ -1312,10 +1312,10 @@ export async function participantsUpdate({ id, participants, action }) {
 
   let godbye = 'https://telegra.ph/file/deaf59bc3e5216eaae814.jpg'
   conn.sendButtonImg(id, await(await fetch(action === 'add' ? wel : lea)).buffer(), 'Group Messege', text, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'WH MODS BOT', fakes, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/_ctzhid/',
+    mediaUrl: 'https://www.instagram.com/ahmdzakaria47',
     mediaType: 2, 
     description: sgc,
-    title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
+    title: "𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚍𝚎𝚔𝚔",
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? welcom : godbye)).buffer(),
     sourceUrl: sig
