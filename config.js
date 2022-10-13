@@ -70,7 +70,7 @@ global.psaweria = 'https://saweria.com/sxyott'
 global.nomorbot = '6281374144561'
 global.nomorown = '6287793236775'
 global.namebot = 'SXYOBOTZ-MD'
-global.nameown = 'SXYO 𝐃𝐄𝐕'
+global.nameown = '𝘼𝙅𝙄 𝙊𝙁𝙁𝘾 ツ'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'SxyoBotz' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287793236775', 'SXYO 𝐃𝐄𝐕', true],
+  ['6287793236775', '𝘼𝙅𝙄 𝙊𝙁𝙁𝘾 ツ' ', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -139,11 +139,11 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 SXYOBOTZV2 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SXYOBOTZV2 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '𝐒𝐗𝐘𝐎𝐁𝐎𝐓𝐙𝐕𝟐'
 global.wm3 = '⫹⫺ SXYOBOTZV2 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By SXYOBOTZ 𝐃𝐄𝐕`
+global.titlebot = `⫹⫺ WhatsApp Bot | By aji 𝐃𝐄𝐕`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 SXYOBOTZV2  あ」'
 
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '𝐒𝐗𝐘𝐎𝐁𝐎𝐓𝐙 𝐕𝟐'
+global.stickauth = `By ©𝐀𝐉𝐈 𝐎𝐅𝐅𝐂 ツ'`
 
 global.multiplier = 38 // The higher, The harder levelup
 
