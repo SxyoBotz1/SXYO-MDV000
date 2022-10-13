@@ -901,7 +901,7 @@ export async function handler(chatUpdate) {
                 } else
                     global.db.data.chats[m.chat] = {
                         antiDelete: false,
-                        antiLink: false,
+                        antiLink: true,
                         antiSticker: false,
                         antiToxic: false,
                         detect: false,
@@ -944,7 +944,7 @@ export async function handler(chatUpdate) {
                 autorestart: false,
                 anticall: true,
                 restartDB: 0,
-                restrict: false,
+                restrict: true,
                 status: 0
             }
         } catch (e) {
